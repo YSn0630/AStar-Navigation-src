@@ -1,0 +1,4 @@
+# config/yolo_params.yaml
+waffle_v4l2:
+  ros__parameters:
+    model_path: '/home/dev/__pwd__/a_star_pkg/best.pt'

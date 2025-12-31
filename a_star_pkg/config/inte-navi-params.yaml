@@ -1,0 +1,9 @@
+integrated_navigation:
+  ros__parameters:
+    lookahead_dist: 0.40
+    linear_vel: 0.15
+    stop_tolerance: 0.15
+    yaw_tolerance: 0.08
+    obstacle_distance: 0.45
+    safety_range: 0.30
+    OCCUPIED: 80
